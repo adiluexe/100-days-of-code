@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: August 8, 2024 (Thursday)
+
+Sup it's Day 4 and I'm 56% through the Foundations Course. I just finished the margin and padding css exercises and I'm gonna end today there, tomorrow we'll start with Flexbox and hopefully at the JavaScript section which I'm still struggling with.
+
+We basically started off today at the Commit Messages lesson which I reread, then did the recipes project. I still haven't added the styles yet for that, but I'm definitely gonna do like a big project with it when I'm almost done with the Foundations Course which I believe we can do for about a month, since we've already progressed through it 2 times, and now's the third. Anyways, I pretty much breezed through the CSS lessons and the exercises. I did kinda skip through the Chrome Dev Tools part, I'll save that for next time, I figured rather than force myself to study that part and lose momentum, I'd rather save it for another time where I'll absolutely need it. I did like knowing about the `CSS Overview` part of the Dev Tools. Now that's something that I know is immediately useful for me.
+
+We also spent around 4 hours today, good job again. Classes are coming up soon, but I hope you still remember to do these independent studies and keep logging here. Again, good job me.
+
 ### Day 3: August 7, 2024 (Wednesday)
 
 Yo it's Day 3 and my mom's birthday, someday I hope to give her the life she deserves.
