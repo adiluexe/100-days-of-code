@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: August 9, 2024 (Friday)
+
+Day 5. I just finished the Flexbox section, including the flexbox exercises, and the landing page project. I pretty much finished the flexbox exercises in under and hour this time, and without looking anything up. That's right no Google, no ChatGpt, just pure experience. I remember struggling with this section when I first encountered, and me taking like almost a week to finish it all. Naturally, my confidence was at an all time high having finished something I struggled with for days, in less than an hour.
+
+I thought I had mastered CSS layouts by now, but when I attempted the landing page page - I realized I still had a long way to go. I particularly struggled with how my sections keep overlapping, and overflowing with each other. But credit where credit's due :3, I did do this in like 2 hours while watching The Umbrella Academy on the side, and I did eventually fix it.
+
+Keep going me, we spent a little over 6 hours today, I'm proud of you.
+
 ### Day 4: August 8, 2024 (Thursday)
 
 Sup it's Day 4 and I'm 56% through the Foundations Course. I just finished the margin and padding css exercises and I'm gonna end today there, tomorrow we'll start with Flexbox and hopefully at the JavaScript section which I'm still struggling with.
