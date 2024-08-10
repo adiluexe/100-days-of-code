@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: August 10, 2024 (Saturday)
+
+Day 6 and almost a week through. Today I started learning about JavaScript. I only managed to complete 2 lessons in the JavaScript basics of TOP. There was too much reading involved about something I'm not used to yet. I figured rather than force myself into that and kill my momentum (I almost didn't wanna study today), I should just switch resources, which was part of my plan after all. That's why I started freeCodeCamp's JS Course. I managed to finish the first two projects, which gave me the motivation to read through the lessons set by TOP, which was still hard to go through.
+
+I kinda skipped over the Dev Tools part again, but tomorrow I'll watch like a couple videos on it instead. I was surpirsed that I was able to study for around 5 hours today, because I did not start off motivated with all the reading. Good on you for having plans in case this happens, and following through with it.
+
+If TOP is getting difficult for you, switch to freeCodeCamp, if even that is getting to be too difficult for you, watch some videos about the topic, and if that still doesn't work - take a break. You might just be tired. Anyways, good job for today, keep at it.
+
 ### Day 5: August 9, 2024 (Friday)
 
 Day 5. I just finished the Flexbox section, including the flexbox exercises, and the landing page project. I pretty much finished the flexbox exercises in under and hour this time, and without looking anything up. That's right no Google, no ChatGpt, just pure experience. I remember struggling with this section when I first encountered, and me taking like almost a week to finish it all. Naturally, my confidence was at an all time high having finished something I struggled with for days, in less than an hour.
