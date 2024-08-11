@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 7: August 11, 2024, (Sunday)
+
+It's officially been a week since I started learning how to code, again (fr this time). I'm 75% through TOP's Foundation Course in just a week! This took me months when I first stumbled upon this course. That being said, I wasn't speeding through or anything, in fact I only kinda finished one lesson today in TOP, which was the Function Basics along with its assignment. There were a lot of readings that I skimmed through and plan to read through again tomorrow. This time I once again focused on freeCodeCamp, specifically the [Learn Basic JavaScript by Building a Role Playing Game](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-javascript-by-building-a-role-playing-game) project which I finished in one sitting today. My plan tomorrow is to maybe finish the TOP lessons until the first project, and then revamp the project I just finished in freeCodeCamp.
+
+I know that we'll be starting of our classes tomorrow, but don't make that an excuse you know you can squeeze in at least 2 hours of your time everyday with this. We've always done well at school, somehow, but I know you also realize that being just good at university and having high grades isn't enough. I'm not asking you to prioritize one thing over another, I'm asking you to do both, and I know you can. Do well in class, while also doing your independent studies. I'm proud of you. Keep going. I'll see you tomorrow, and everyday after that.
+
 ### Day 6: August 10, 2024 (Saturday)
 
 Day 6 and almost a week through. Today I started learning about JavaScript. I only managed to complete 2 lessons in the JavaScript basics of TOP. There was too much reading involved about something I'm not used to yet. I figured rather than force myself into that and kill my momentum (I almost didn't wanna study today), I should just switch resources, which was part of my plan after all. That's why I started freeCodeCamp's JS Course. I managed to finish the first two projects, which gave me the motivation to read through the lessons set by TOP, which was still hard to go through.
