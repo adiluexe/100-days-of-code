@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 7: August 11, 2024, (Sunday)
+### Day 8: August 12, 2024 (Monday)
+
+Hey it's Day 8, and today was the first day of me being a 3rd Year Computer Science Student. The subject was calculus earlier and we reviewed Algebra, which I embarassingly struggled with a lot. I will definitely get back on reviewing Algebra. Do not make this an excuse. WE CAN DO BOTH. We just need to plan things better, it's only the first week things will get better, you'll find your groove.
+
+Anyways, back to our independent studies. You made the right decision earlier of doing this early in the morning when you still had time. Tomorrow we might not have enough time, but try to squeeze in atleast an hour of just reading shit and immersing yourself to the programming culture. I think we have some spare time in between classes you can use that. Read when you can't code. It still counts.
+
+Now back to what we accomplished today. I only managed to kinda complete one lesson in Odin which was about Problem Solving. After that I went ahead and played around with the freeCodeCamp project I did yesterday, and I just finished it, check it out [here](https://adiluexe.github.io/basic-js-rpg/) in all it's mediocre glory.
+
+I did not add a lot in the JavaScript part of the code. It's mostly improving the copywriting and design of things, which I'm still proud of. I added new description objects for the monsters; updated the dialogue and options; and overhauled the entire UI. My JavaScript skills still suck, but I'm definitely getting better at CSS and the frontend side of things. Of course I'm still confused on why it's not being responsive like I thought it would, I keep using `100vh` for the landing page and it's not working right when the page content is larger than that or when I scale it down. But that's beside the point, I made stuff today, just keep making stuff, eventually everything will just be natural to you. Keep going me, goodluck, and see you tomorrow.
+
+### Day 7: August 11, 2024 (Sunday)
 
 It's officially been a week since I started learning how to code, again (fr this time). I'm 75% through TOP's Foundation Course in just a week! This took me months when I first stumbled upon this course. That being said, I wasn't speeding through or anything, in fact I only kinda finished one lesson today in TOP, which was the Function Basics along with its assignment. There were a lot of readings that I skimmed through and plan to read through again tomorrow. This time I once again focused on freeCodeCamp, specifically the [Learn Basic JavaScript by Building a Role Playing Game](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-javascript-by-building-a-role-playing-game) project which I finished in one sitting today. My plan tomorrow is to maybe finish the TOP lessons until the first project, and then revamp the project I just finished in freeCodeCamp.
 
