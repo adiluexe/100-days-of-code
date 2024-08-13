@@ -1,14 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 9: August 13, 2024 (Tuesday)
+
+Hello it's Day 9 and today was my shortest study session so far. I think I only crammed about an hour or so in the morning. I think I finished 2 lessons in The Odin Project today which was Problem Solving and Understanding Errors. I finally did one of MDN's active learning section earlier - the one about error handling, and they were pretty good. I finally forked their repo and I might just have to finish it all sometime.
+
+After I got home from school, I finally attempted the rock paper scissors project, and then failed when I realized I still couldn't do it from scratch without searching for answers immediately. I figured I'll save this project for when I can comfortably do it without guides. That's when I made the switch to freeCodeCamp again and finished one quick lesson earlier, surprisingly about debugging. I also practiced my frontend skills a bit by improving the UI of said project. I think I'll stick with freeCodeCamp for now at least until I finish their rock paper scissors project, which they also have. Anyways, good job again today, keep doing this.
+
 ### Day 8: August 12, 2024 (Monday)
 
-Hey it's Day 8, and today was the first day of me being a 3rd Year Computer Science Student. The subject was calculus earlier and we reviewed Algebra, which I embarassingly struggled with a lot. I will definitely get back on reviewing Algebra. Do not make this an excuse. WE CAN DO BOTH. We just need to plan things better, it's only the first week things will get better, you'll find your groove.
+Hey it's Day 8, and today was the first day of me being a 3rd Year Computer Science Student. The subject was calculus earlier and we reviewed Algebra, which I embarrassingly struggled with a lot. I will definitely get back on reviewing Algebra. Do not make this an excuse. WE CAN DO BOTH. We just need to plan things better, it's only the first week things will get better, you'll find your groove.
 
-Anyways, back to our independent studies. You made the right decision earlier of doing this early in the morning when you still had time. Tomorrow we might not have enough time, but try to squeeze in atleast an hour of just reading shit and immersing yourself to the programming culture. I think we have some spare time in between classes you can use that. Read when you can't code. It still counts.
+Anyways, back to our independent studies. You made the right decision earlier of doing this early in the morning when you still had time. Tomorrow we might not have enough time, but try to squeeze in at least an hour of just reading shit and immersing yourself to the programming culture. I think we have some spare time in between classes you can use that. Read when you can't code. It still counts.
 
 Now back to what we accomplished today. I only managed to kinda complete one lesson in Odin which was about Problem Solving. After that I went ahead and played around with the freeCodeCamp project I did yesterday, and I just finished it, check it out [here](https://adiluexe.github.io/basic-js-rpg/) in all it's mediocre glory.
 
-I did not add a lot in the JavaScript part of the code. It's mostly improving the copywriting and design of things, which I'm still proud of. I added new description objects for the monsters; updated the dialogue and options; and overhauled the entire UI. My JavaScript skills still suck, but I'm definitely getting better at CSS and the frontend side of things. Of course I'm still confused on why it's not being responsive like I thought it would, I keep using `100vh` for the landing page and it's not working right when the page content is larger than that or when I scale it down. But that's beside the point, I made stuff today, just keep making stuff, eventually everything will just be natural to you. Keep going me, goodluck, and see you tomorrow.
+I did not add a lot in the JavaScript part of the code. It's mostly improving the copywriting and design of things, which I'm still proud of. I added new description objects for the monsters; updated the dialogue and options; and overhauled the entire UI. My JavaScript skills still suck, but I'm definitely getting better at CSS and the frontend side of things. Of course I'm still confused on why it's not being responsive like I thought it would, I keep using `100vh` for the landing page and it's not working right when the page content is larger than that or when I scale it down. But that's beside the point, I made stuff today, just keep making stuff, eventually everything will just be natural to you. Keep going me, good luck, and see you tomorrow.
 
 ### Day 7: August 11, 2024 (Sunday)
 
@@ -50,9 +56,9 @@ I spent around 4 hours studying today, the longest session we've had so far. You
 
 ### Day 2: August 6, 2024 (Tuesday)
 
-Hey it's Day 2 and I'm 20% through with the Foundations Course, I'm almost finished with the Preqrequisites section, I spent almost 4 hours today with The Odin Proect, about 1 hour of that was trying to setup WSL2 in my device. I had installed it previously, but I thought It wasn't working so I reinstalled it again, and that's where I encountered some problems and spent extra time on, but it's all hopefully over.
+Hey it's Day 2 and I'm 20% through with the Foundations Course, I'm almost finished with the Prerequisites section, I spent almost 4 hours today with The Odin Project, about 1 hour of that was trying to setup WSL2 in my device. I had installed it previously, but I thought It wasn't working so I reinstalled it again, and that's where I encountered some problems and spent extra time on, but it's all hopefully over.
 
-I mostly learned about computers today, and some background on the web and basically things related to it. I'm nearly done with the Command Line Basics, but I think It's better if I finish it tommorow. It's currently 8pm while I'm writing this and I'm gonna call it day, need to rest even if I think I could still do more. You deserve it, keep up the good work.
+I mostly learned about computers today, and some background on the web and basically things related to it. I'm nearly done with the Command Line Basics, but I think It's better if I finish it tomorrow. It's currently 8pm while I'm writing this and I'm gonna call it day, need to rest even if I think I could still do more. You deserve it, keep up the good work.
 
 ### Day 1: August 5, 2024 (Monday)
 
