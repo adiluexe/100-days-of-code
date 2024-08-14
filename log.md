@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 10: August 14, 2024 (Wednesday)
+
+Yo it's Day 10, it's only 8:30 PM but I'm call it a day, because I'm tired. I managed to squeeze in some dev time during my easier subjects. Not necessarily easy but it was just a short orientation so I spent that time building and debugging the number guessing game from MDN. And just now I was able to fix one annoying bug, which was really just a simple fix. This is my fault for not trusting the Chrome Dev Tools, because I was entirely convinced that one element was causing the problem, until I inspected it and it was a completely different element, which I was then able to fix immediately. Always keep the developers tools open. Lesson learned. Trust the devtools, study the devtools.
+
+Anyways after that I did a couple of freeCodeCamp lessons. I'm on the Building a Calorie Counter part, I hope I can continue more tomorrow. Goodnight, good luck and keep going.
+
 ### Day 9: August 13, 2024 (Tuesday)
 
 Hello it's Day 9 and today was my shortest study session so far. I think I only crammed about an hour or so in the morning. I think I finished 2 lessons in The Odin Project today which was Problem Solving and Understanding Errors. I finally did one of MDN's active learning section earlier - the one about error handling, and they were pretty good. I finally forked their repo and I might just have to finish it all sometime.
