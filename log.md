@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 12: August 16, 2024 (Friday)
+
+Hey it's Day 12, and I just finished the [Calorie Counter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-form-validation-by-building-a-calorie-counter) project from freeCodeCamp. My online class was supposed to last until 8 PM, but luckily it didn't, giving me plenty of time to finally finish this lesson which took about 2 days I think, I remember being able to do one for less than a day, but yeah can't be helped since it's no longer summer and the challenge is to juggle both my independent studies and college, and not prioritize one over the other.
+
+Anyways, while I didn't understand the full process of how this calorie counter was built - what's important is I learned some new concepts and techniques on how to build things. I think that's what great about freeCodeCamp, because even If I don't what is going on, I'm subconsciously learning some great practices that I'll keep using. It'd be great if I completely know the why, but right now I'm satisfied that I know the how of building something. I'll publish this project again, experiment on it and this time try to change more than the appearance of the project.
+
+Good job today, enjoy your weekend, but don't forget what you gotta do. We're lacking some preparation that you'd really benefit from in the long run. Do those too, tomorrow aside from this. Keep going me.
+
+### Day 11: August 15, 2024 (Thursday)
+
+It's Day 11 now, and I have to admit that I was pretty "lazy" today. I went home from school at around 5 PM, which was plenty of time for me to study, but I didn't. Instead I spent this free time doing God knows what. I honestly don't know what happened, I'm probably just tired because this was the first time this week, that I went home kinda early, and didn't walk all the way from school.
+
+I still did a few freeCodeCamp lessons today which were mainly about working with regex, but it didn't amount to an hour. I could've done more today, but hey you deserve some rest. Tomorrow, we have a full day of online classes, even if that's the case I think I can squeeze in some dev time. It may be difficult to do lessons while listening to classes, but I can definitely design and develop websites while that's happening, which I'll try again tomorrow.
+
+Anyways, lock in. Remember your goals and push through even if you don't feel like it. Good luck tomorrow.
+
 ### Day 10: August 14, 2024 (Wednesday)
 
 Yo it's Day 10, it's only 8:30 PM but I'm call it a day, because I'm tired. I managed to squeeze in some dev time during my easier subjects. Not necessarily easy but it was just a short orientation so I spent that time building and debugging the number guessing game from MDN. And just now I was able to fix one annoying bug, which was really just a simple fix. This is my fault for not trusting the Chrome Dev Tools, because I was entirely convinced that one element was causing the problem, until I inspected it and it was a completely different element, which I was then able to fix immediately. Always keep the developers tools open. Lesson learned. Trust the devtools, study the devtools.
@@ -32,7 +48,7 @@ I know that we'll be starting of our classes tomorrow, but don't make that an ex
 
 Day 6 and almost a week through. Today I started learning about JavaScript. I only managed to complete 2 lessons in the JavaScript basics of TOP. There was too much reading involved about something I'm not used to yet. I figured rather than force myself into that and kill my momentum (I almost didn't wanna study today), I should just switch resources, which was part of my plan after all. That's why I started freeCodeCamp's JS Course. I managed to finish the first two projects, which gave me the motivation to read through the lessons set by TOP, which was still hard to go through.
 
-I kinda skipped over the Dev Tools part again, but tomorrow I'll watch like a couple videos on it instead. I was surpirsed that I was able to study for around 5 hours today, because I did not start off motivated with all the reading. Good on you for having plans in case this happens, and following through with it.
+I kinda skipped over the Dev Tools part again, but tomorrow I'll watch like a couple videos on it instead. I was surprised that I was able to study for around 5 hours today, because I did not start off motivated with all the reading. Good on you for having plans in case this happens, and following through with it.
 
 If TOP is getting difficult for you, switch to freeCodeCamp, if even that is getting to be too difficult for you, watch some videos about the topic, and if that still doesn't work - take a break. You might just be tired. Anyways, good job for today, keep at it.
 
