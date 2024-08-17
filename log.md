@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: August 17, 2024 (Saturday)
+
+It's officially Day 13, and almost 2 weeks from when I first started this challenge. It's difficult doing this while I have classes and other responsibilities, but we kinda did this to ourselves because we didn't start sooner. But enough of the self blame, the second best thing is now, and you'll always have now, what's important is you keep taking action every now.
+
+Anyways, short pep talk over - Today I attempted to build rock paper scissors from scratch, and failed, kind of. I'll try to fix it tomorrow, and finally finish watching some rock paper scissors tutorial on YouTube, because reading is still not enough for me. Prior to that I had finished the short rock paper scissors project in freeCodeCamp, but I kept it separate from The Odin Project, because I wanted to work within TOP's rules. I almost finished all the test cases, but yeah I encountered some bugs I wasn't able to fix yet. Still I did improve the design of the freeCodeCamp rock paper scissors, and I'm quite proud of that. Good job me.
+
+It's only 6pm while I'm writing this, but I need to clear some of my backlogs, the most important being this video I need to record. I've set up Java in my VS Code, but I still need to review it, especially because we're doing Android Development for our course. I have some experience with it, but I remember not liking doing Android that much, hopefully it will change this time.
+
 ### Day 12: August 16, 2024 (Friday)
 
 Hey it's Day 12, and I just finished the [Calorie Counter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-form-validation-by-building-a-calorie-counter) project from freeCodeCamp. My online class was supposed to last until 8 PM, but luckily it didn't, giving me plenty of time to finally finish this lesson which took about 2 days I think, I remember being able to do one for less than a day, but yeah can't be helped since it's no longer summer and the challenge is to juggle both my independent studies and college, and not prioritize one over the other.
