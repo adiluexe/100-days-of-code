@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 14: August 18, 2024 (Sunday)
+
+Can't believe it's been two weeks already. Although my pace is slowing down a lot, I'll eventually get that momentum back once I get used to going to school while simultaneously doing this. I only did one lesson today in The Odin Project about Clean Code. I spent way too much time gaming today, but I guess I'll let it slide since it's only once a week, and today is a weekend. I'll see you tomorrow, make sure to prepare for your classes.
+
 ### Day 13: August 17, 2024 (Saturday)
 
 It's officially Day 13, and almost 2 weeks from when I first started this challenge. It's difficult doing this while I have classes and other responsibilities, but we kinda did this to ourselves because we didn't start sooner. But enough of the self blame, the second best thing is now, and you'll always have now, what's important is you keep taking action every now.
