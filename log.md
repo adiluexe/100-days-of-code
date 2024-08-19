@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 15: August 19, 2024 (Monday)
+
+It's Day 15 and a Monday, I've only read some lessons again today. The first one where I had to install Node JS, and after that I've read a bit on arrays, again. If things go right tonight, and If I'm not sleepy I might review some Java for tomorrow. Still not used to the new schedule, but please try harder. Lock in.
+
 ### Day 14: August 18, 2024 (Sunday)
 
 Can't believe it's been two weeks already. Although my pace is slowing down a lot, I'll eventually get that momentum back once I get used to going to school while simultaneously doing this. I only did one lesson today in The Odin Project about Clean Code. I spent way too much time gaming today, but I guess I'll let it slide since it's only once a week, and today is a weekend. I'll see you tomorrow, make sure to prepare for your classes.
