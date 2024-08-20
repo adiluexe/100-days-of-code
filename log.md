@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 16: August 20, 2024 (Tuesday)
+
+Hey hey, we're at Day 16, well kind of. I did some Java for the first time today. I reviewed for a bit early in the morning, but it wasn't enough because I pretty much had to rely on AI when doing our activity. I mean I can kinda understand most parts of it, but if I had to do everything from scratch, which I tried - I definitely would not succeed at that moment. We only had at best 2 hours to complete almost 10 exercises, so really that was my only choice. Don't worry though I still will avoid using AI on my separate studies. I just had to this time.
+
+Other than some Java review on our classes, the only code-related thing I did was try to add some design to the previous calorie counter project I did on freeCodeCamp. That is until I distracted myself by playing League of Legends. Lock in :3
+
 ### Day 15: August 19, 2024 (Monday)
 
 It's Day 15 and a Monday, I've only read some lessons again today. The first one where I had to install Node JS, and after that I've read a bit on arrays, again. If things go right tonight, and If I'm not sleepy I might review some Java for tomorrow. Still not used to the new schedule, but please try harder. Lock in.
