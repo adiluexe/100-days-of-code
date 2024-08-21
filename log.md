@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 17: August 21, 2024 (Wednesday)
+
+I couldn't study some code today, but I did manage to redesign the calorie counter project, and finish it today. I just realized some features are not working as intended, and I plan to come back to it some time. The important thing is I managed to redesign yet another website adding to my experience. It's still practice and definitely not portfolio worthy. I haven't been researching much on these redesigns and basically just doing it raw. My process is basically get color, get fonts, do a basic layout in figma, then code. Good for practice, but in the real world I doubt they do that, so for my next project. I'm gonna try a little harder and actually do some research to my designs and improve my workflow. Anyways, gonna call it a day now and sleep. After tomorrow my schedule will be opening up again for almost week, so use that time wisely.
+
 ### Day 16: August 20, 2024 (Tuesday)
 
 Hey hey, we're at Day 16, well kind of. I did some Java for the first time today. I reviewed for a bit early in the morning, but it wasn't enough because I pretty much had to rely on AI when doing our activity. I mean I can kinda understand most parts of it, but if I had to do everything from scratch, which I tried - I definitely would not succeed at that moment. We only had at best 2 hours to complete almost 10 exercises, so really that was my only choice. Don't worry though I still will avoid using AI on my separate studies. I just had to this time.
