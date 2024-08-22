@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: August 22, 2024 (Thursday)
+
+Hey tomorrow is the start of a long weekend and my goal is to finish or come close to finishing the Foundations course. We've been slacking off a lot this week, granted it's only our second week since going back to school, but we've been given an opportunity of a long weekend. Please don't waste this time doing unnecessary bs. I trust you know what to do. Don't fuck up.
+
+Anyways today, I only partially read through the loops lesson in MDN, didn't even do the active recall lessons, but I started the TOP's javascript exercises, and had an experiment with npm through their exercises and learned briefly about Test Driven Development. Let's focus up tomorrow as soon as we wake up, ditch the phone, go straight to the laptop and start learning early in the morning. So even if we fuck up, which we probably will we'd have done some amount of studying early in the morning. Who knows once we get started with studying we just might not stop, so better to improve your chances and just do it in the morning. Also we need start preparing for our eventual group projects. I think I'll mostly be assuming a designer role, but that doesn't mean you have to neglect programming, especially the backend altogether. It pays to know a lot, and not just one. We can do both, and maybe more, it just needs a little more dedication and hard work.
+
+Good luck tomorrow. Remember, go straight to studying as soon as you wake up.
+
 ### Day 17: August 21, 2024 (Wednesday)
 
 I couldn't study some code today, but I did manage to redesign the calorie counter project, and finish it today. I just realized some features are not working as intended, and I plan to come back to it some time. The important thing is I managed to redesign yet another website adding to my experience. It's still practice and definitely not portfolio worthy. I haven't been researching much on these redesigns and basically just doing it raw. My process is basically get color, get fonts, do a basic layout in figma, then code. Good for practice, but in the real world I doubt they do that, so for my next project. I'm gonna try a little harder and actually do some research to my designs and improve my workflow. Anyways, gonna call it a day now and sleep. After tomorrow my schedule will be opening up again for almost week, so use that time wisely.
