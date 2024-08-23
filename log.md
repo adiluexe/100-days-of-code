@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 19: August 23, 2024 (Friday)
+
+Sup, it's the first day of our 4-day weekend, and I've done a bit of coding today, more than I did this past week. I'm hoping this will increase more tomorrow. Anyways, I first attempted to finish the TOP's JavaScript exercises, but I couldn't get all of them to work. I think I stopped at just exercise 4, because I couldn't solve it fast enough, and I didn't want to result to using AI to solve it, of course I still searched for answers, but I'm not sure if I did it right. So I switched to freeCodeCamp's JavaScript course, and I managed to finish the music player project today. I learned a lot about different string and array methods, and how to use them. Although our focus was a bit shifted earlier, I'm glad we still spent a lot of time on it today. Tomorrow I plan to learn some Android Development to prepare for our future project like I mentioned yesterday. I just need to be familiar with it. Also don't forget to practice some design skills while you're at it. Remember we're gonna be working primarily as a designer on our group activity, so even if you do know a bit of graphic design, UI and UX is a different field, and your Figma skills are not on par with your Photoshop skills.
+
+Still try to squeeze in web development on your learning, because that's one career we see ourselves in, but also don't neglect what's important in your university studies - which right now is Android Development, and UI/UX Design. Good job today, keep it up.
+
 ### Day 18: August 22, 2024 (Thursday)
 
 Hey tomorrow is the start of a long weekend and my goal is to finish or come close to finishing the Foundations course. We've been slacking off a lot this week, granted it's only our second week since going back to school, but we've been given an opportunity of a long weekend. Please don't waste this time doing unnecessary bs. I trust you know what to do. Don't fuck up.
